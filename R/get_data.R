@@ -13,8 +13,3 @@ get_data <- function() {
   
 }
 
-set_data <- function() {
-  
-  print("set data")
-  
-}
