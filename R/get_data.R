@@ -12,3 +12,9 @@ get_data <- function() {
   print("get data from server!")
   
 }
+
+set_data <- function() {
+  
+  print("set data")
+  
+}
